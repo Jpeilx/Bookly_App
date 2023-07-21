@@ -1,17 +1,35 @@
-# bookly
+# Bookly App 
 
-A new Flutter project.
+## Introduction:
 
-## Getting Started
+The Bookly App is a Flutter-based application that uses MVVM architecture and block as state management with the Dio package to handle API requests from **Google books Api**. The app displays information about free books and each book is clickable to show its details and Preview with URl lancher .
 
-This project is a starting point for a Flutter application.
+## skills utilized:
 
-A few resources to get you started if this is your first Flutter project:
+- **MVVM Arch**  .
+- **dio** package for handling APIs .
+- **BLoC Arch**  for state management . 
+- **Responsive Flutter Ui** . 
+- **singleton** design pattern .
+- **Dependency Injection** design pattern .
+- **pagination** .
+- **Error Handling**.
+- **Launch Custom urls**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Bookly_App" 
+1. Clone or download the repository .
+2. Install Dependencies:
+    - Open the project in your preferred IDE and run the following command in the terminal:
+    
+        ```
+        flutter pub get
+        ```
+        
+3. Connect a physical device or launch an emulator .
+4. Run the app .
+
+## Live video 
+[Live Video](https://drive.google.com/file/d/18T7eZJH6qwIzkw-MmgRdwF6_5LD76eY8/view?usp=sharing)
+## Screenshots
+![bookly](https://github.com/Jpeilx/Movie-App/assets/96302371/7ae09f61-ab3c-4cee-9e8f-f78388335e15)
